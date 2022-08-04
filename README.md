@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Nazar! 
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>C# </b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+
+
 
 <!--
-**NazarAbbas234/NazarAbbas234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
